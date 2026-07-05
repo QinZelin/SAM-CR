@@ -3,7 +3,7 @@ The code framework is mainly borrowed from CGNet，a supervised change detection
 please refer to [CGNET-README.md](https://github.com/ChengxiHAN/CGNet-CD) for installing main packeges such as python, pytorch, etc.
 ## Training
 Both SAM1 and SAM2 can be applied to this framework. 
-Before running the framework, the dependency packages of SAM need to be installed. Alternatively, the SAM source codes [SAM1](https://github.com/facebookresearch/segment-anything), [SAM2](https://github.com/facebookresearch/sam2) could be downloaded and placed in the subdirectory (SAM/). 
+Before running the framework, the dependency packages of SAM need to be installed. Alternatively, the SAM source codes [SAM1](https://github.com/facebookresearch/segment-anything), [SAM2](https://github.com/facebookresearch/sam2) could be downloaded and placed in the directory. 
 
 Training on LEVIR-CD dataset with a 5% labeled ratio: 
 
